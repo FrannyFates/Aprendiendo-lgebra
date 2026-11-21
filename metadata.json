@@ -1,0 +1,6 @@
+{
+  "name": "Álgebra con Canelita - Rachel",
+  "description": "Juego interactivo de álgebra para Rachel con Canelita: dibuja ecuaciones, resuelve balanzas y aprende operaciones combinadas paso a paso.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
